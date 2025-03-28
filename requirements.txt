@@ -1,0 +1,7 @@
+selenium
+pandas
+openpyxl
+numpy
+jpype1
+requests
+tabula-py
